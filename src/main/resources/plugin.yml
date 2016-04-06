@@ -1,0 +1,7 @@
+name: AdminJQ
+main: com.haniokasai.nukkit.AdminJQ.Main
+version: 0.0.1
+author: haniokasai
+api: ["1.0.0"]
+description: When ops join or quit,broadcast it.
+website: http://haniokasai.com
