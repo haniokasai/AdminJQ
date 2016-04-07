@@ -5,3 +5,5 @@
  My first nukkit plugin.
 
 a nukkit plugin. When ops join or quit,broadcast it.
+
+Download http://jenkins.haniokasai.com/job/AdminJQ/
