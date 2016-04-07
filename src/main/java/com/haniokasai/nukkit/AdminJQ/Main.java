@@ -39,7 +39,6 @@ public class Main extends PluginBase implements Listener{
 
 	@EventHandler
 	public void join(PlayerJoinEvent event){
-		this.getServer().broadcastMessage("aaa");
 		Player player = event.getPlayer();
 		if(player.isOp()){
 			this.getServer().broadcastMessage(getConfig().get("join1")+player.getDisplayName()+getConfig().get("join2"));
