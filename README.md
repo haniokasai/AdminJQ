@@ -7,3 +7,5 @@
 a nukkit plugin. When ops join or quit,broadcast it.
 
 Download http://jenkins.haniokasai.com/job/AdminJQ/
+
+forum http://forums.nukkit.cn/index.php?resources/adminjq.46/
