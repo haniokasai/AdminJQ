@@ -1,6 +1,6 @@
 # AdminJQ
 
-[![Build Status](http://jenkins.haniokasai.com/buildStatus/icon?job=AdminJQ)](http://jenkins.haniokasai.com/job/AdminJQ/ "Jenkins ")
+[![Build Status](http://jenkins.haniokasai.com/buildStatus/icon?job=SPAMBAN-Nukkit)](http://jenkins.haniokasai.com/job/SPAMBAN-Nukkit/ "Jenkins ")
 
  My first nukkit plugin.
 
