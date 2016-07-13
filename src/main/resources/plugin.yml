@@ -1,7 +1,5 @@
-name: AdminJQ
-main: com.haniokasai.nukkit.AdminJQ.Main
-version: 0.0.1
-author: haniokasai
-api: ["1.0.0"]
-description: When ops join or quit,broadcast it.
-website: http://haniokasai.com
+name: SpamBan
+main: com.haniokasai.nukkit.SPAMBAN.Main
+version: 1.0.0
+api: [1.0.0]
+description: Spam Block Plugin
